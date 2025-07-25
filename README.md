@@ -1,1 +1,1 @@
-# image-studio
+# Image Studio
